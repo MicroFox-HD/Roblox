@@ -1,5 +1,5 @@
 local roles = {
-	["sadmins] = {
+	["sadmins"] = {
 		"trycokitten666",
 	},
 	["admins"] = {
