@@ -6,7 +6,8 @@ local roles = {
 	},
 	["vips"] = {
 		"TigeyCal",
-    "trycokitten666",
+    		"trycokitten666",
+    		"Fire_Hunter9313",
 	},
 }
 
