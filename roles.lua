@@ -1,4 +1,7 @@
 local roles = {
+	["sadmins] = {
+		"trycokitten666",
+	},
 	["admins"] = {
 		"MicroFox_HD",
 		"Fire_Face1231",
