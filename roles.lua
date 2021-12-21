@@ -1,5 +1,5 @@
 local roles = {
-	["ds"] = {
+	["deathsquad"] = {
 		"MicroFox_HD",
 		"xGrimxGamingx",
 		"flowerykristen",
