@@ -3,6 +3,7 @@ local roles = {
 		"MicroFox_HD",
 		"xGrimxGamingx",
 		"flowerykristen",
+		"kat_cragon",
 	},
 	["sadmins"] = {
 		"MicroFox_HD",
@@ -18,6 +19,7 @@ local roles = {
     		"trycokitten666",
 		"xGrimxGamingx",
 		"flowerykristen",
+		"kat_cragon",
 	},
 	["vips"] = {
 		"TigeyCal",
