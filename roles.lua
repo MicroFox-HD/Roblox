@@ -1,4 +1,9 @@
 local roles = {
+	["ds"] = {
+		"MicroFox_HD",
+		"xGrimxGamingx",
+		"flowerykristen",
+	}
 	["sadmins"] = {
 		"MicroFox_HD",
 		"MicroFox_Storage",
