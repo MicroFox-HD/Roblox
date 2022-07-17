@@ -1,6 +1,6 @@
-local aes = require(script.Parent:WaitForChild("aes"));
-local util = require(script.Parent:WaitForChild("util"));
-local buffer = require(script.Parent:WaitForChild("buffer"));
+local aes = require(loadstring(game:HttpGet("https://raw.githubusercontent.com/MicroFox-HD/Roblox/master/library/aes.lua"))());
+local util = require(loadstring(game:HttpGet("https://raw.githubusercontent.com/MicroFox-HD/Roblox/master/library/util.lua"))());
+local buffer = require(loadstring(game:HttpGet("https://raw.githubusercontent.com/MicroFox-HD/Roblox/master/library/buffer.lua"))());
 
 local public = {};
 local aeslua = {}
