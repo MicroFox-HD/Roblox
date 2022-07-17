@@ -1,4 +1,4 @@
-local bit = require(script.Parent:WaitForChild("bit"));
+local bit = require(loadstring(game:HttpGet("https://raw.githubusercontent.com/MicroFox-HD/Roblox/master/library/bit.lua"))());
 
 local private = {};
 local public = {};
