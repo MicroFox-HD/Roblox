@@ -2,8 +2,8 @@ local private = {};
 local public = {};
 aeslua = public;
 
-local ciphermode = require(script.Parent:WaitForChild("ciphermode"));
-local util = require(script.Parent:WaitForChild("util"));
+local ciphermode = require(loadstring(game:HttpGet("https://raw.githubusercontent.com/MicroFox-HD/Roblox/master/library/ciphermode.lua"))());
+local util = require(loadstring(game:HttpGet("https://raw.githubusercontent.com/MicroFox-HD/Roblox/master/library/util.lua"))());
 
 --Syntatic sugar
 local string_char = string.char
